@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="mike.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mike"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <ScrollViewer ZoomMode="Enabled" MaxZoomFactor="10"
+              HorizontalScrollMode="Enabled" HorizontalScrollBarVisibility="Visible"
+              Height="900" Width="1500">
+            <TextBox x:ConnectionId='3' x:Name="output" FontSize="24" Padding="10" Text="" Margin="0,10,0,36" TextWrapping="Wrap"></TextBox>
+        </ScrollViewer>
+        <TextBlock x:ConnectionId='2' x:Name="textBlock1" Foreground="Aqua" TextAlignment="Center" FontSize="24" Text="Waiting..." Margin="0,968,20,0"/>
+    </Grid>
+</Page>
+

@@ -1,0 +1,7 @@
+﻿"C:\Users\tosi\source\repos\mike\mike\obj\x86\Release\ilc\in\mike.exe"
+/Lib:"C:\Users\tosi\source\repos\mike\mike\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\tosi\source\repos\mike\mike\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"530c87ea-0598-4fc5-9a12-c6deedf8ddc0","Id":"9b941ea7-f999-45e8-82cb-ed988ed57084","ProcessStartTime":637443676693847240}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR
